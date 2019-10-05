@@ -1,0 +1,11 @@
+.greeting {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin: 0 auto;
+    letter-spacing: 5px;
+    color: rgba(18, 5, 95, 0.8);
+    width: 75%;
+}
+span{
+    color: rgba(255, 102, 0, 0.9);
+}

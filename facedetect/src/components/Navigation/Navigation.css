@@ -1,0 +1,28 @@
+.navbar{
+	max-width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	padding: 10px;
+	margin-left: 15px;
+	font-size: 20px;
+	/*color:  #b48c36;*/
+	color: #000;
+	font-weight: bold;
+}
+
+.face{
+	margin-right: auto; 
+}
+.sign{
+/*	margin-left: auto;
+*/	text-decoration: underline;
+	font-size: 18px;
+	padding-left: 15px;
+	color: #000;
+	/*color: #b48c36;*/
+}
+
+.sign:hover{
+	cursor: pointer;
+	opacity: 0.5;
+}

@@ -1,0 +1,40 @@
+.options{
+	margin: 0 auto;
+ 	max-width: 475px;
+}
+h3{
+	margin-bottom: 15px; 
+	color: #000;
+}
+.options .box{
+	display: flex;
+	justify-content: flex-start;
+	padding: 25px;
+	margin: 0px auto;
+	margin-bottom: 15px;
+	border-radius: 10px;
+	/* box-shadow:0px 0px 10px 10px rgba(0,0,0,0.3); */
+	background:
+				linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+				linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+				linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+				linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+				linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+				linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+				background-color: #131313;
+				background-size: 20px 20px;
+}
+.imageUrl{
+	width: 400px;
+	max-width: 85%;
+}
+.box button{
+	height: 35px;
+	width: 75px;
+	border-style: none;
+	font-weight: bold;
+	background: #7aa1d2;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}

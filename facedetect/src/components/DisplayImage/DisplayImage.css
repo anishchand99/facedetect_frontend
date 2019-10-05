@@ -1,0 +1,19 @@
+.display{
+	position: relative;
+	margin: 10px auto;
+	max-width: 90%;
+	width: 500px;
+	height: auto;
+}
+.display img{
+	max-width: 100%;
+	width: 500px;
+	height: auto;
+}
+.faceBox{
+	position: absolute;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+	box-shadow: 0 0 0 3px #149df2 inset;
+}
